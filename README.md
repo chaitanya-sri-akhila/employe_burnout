@@ -102,3 +102,24 @@ The dataset used in this project was obtained from an external source and is not
 ## Disclaimer
 
 This project is intended for educational and machine learning demonstration purposes. The predicted Burn Rate should not be interpreted as a medical or clinical assessment.
+## How to Run
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/chaitanya-sri-akhila/employe_burnout.git
+```
+
+2. Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Download the dataset from the original source and save it as:
+
+```
+raw_data.csv
+```
+
+4. Open the Jupyter Notebook and run all cells.
